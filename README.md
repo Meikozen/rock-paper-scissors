@@ -1,4 +1,4 @@
-# Features:
+# Features
 
 - New choice for the CPU will be randomly generated every time you click rock/paper/scissors
 - Displays if you win, lose, or if its a tie in the center box
